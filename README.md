@@ -3,9 +3,9 @@
 
 ## 架构解析
 
-[支付宝小程序技术架构全解析](https://www.infoq.cn/article/ullETz7q_Ue4dUptKgKC)
+[支付宝小程序技术架构全解析](https://www.infoq.cn/article/ullETz7q_Ue4dUptKgKC) - 支付宝小程序首席架构师白招拒访谈，2019.02.19
 
 ## 实现原理
 
-[微信小程序同层渲染原理剖析](https://developers.weixin.qq.com/community/develop/article/doc/000c4e433707c072c1793e56f5c813?page=1#comment-list)
+[微信小程序同层渲染原理剖析](https://developers.weixin.qq.com/community/develop/article/doc/000c4e433707c072c1793e56f5c813?page=1#comment-list)- 微信官方，2019.11.20
 
