@@ -11,4 +11,4 @@
 
 ## 演讲视频
 
-[[VueConf.2019]探索Web编程的另一种形态@天翔](https://v.qq.com/x/page/n0886gkx6yh.html)
+[探索Web编程的另一种形态](https://v.qq.com/x/page/n0886gkx6yh.html) - 2019.VueConf，天翔@快手
