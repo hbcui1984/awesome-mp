@@ -9,3 +9,6 @@
 
 [微信小程序同层渲染原理剖析](https://developers.weixin.qq.com/community/develop/article/doc/000c4e433707c072c1793e56f5c813?page=1#comment-list)- 微信官方，2019.11.20
 
+## 演讲视频
+
+[[VueConf.2019]探索Web编程的另一种形态@天翔](https://v.qq.com/x/page/n0886gkx6yh.html)
