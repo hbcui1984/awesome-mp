@@ -11,11 +11,9 @@
 
 ## 性能优化
 
-[谜之wxs，uni-app如何用它大幅提升性能](https://juejin.im/post/5d7f366b6fb9a06af8250bc4) - DCloud 崔红保，2019.09.16
-
-[Vue开发小程序之性能优化](https://v.qq.com/x/page/r0886mn8v6l.html) 2019.VueConf，崔红保@DCloud
-
-[微信公开课讲师 赵景晨：小程序性能优化](https://daxue.qq.com/wechat/content/id/4151) - 微信，2018.07.11
+- [谜之wxs，uni-app如何用它大幅提升性能](https://juejin.im/post/5d7f366b6fb9a06af8250bc4) - DCloud 崔红保，2019.09.16
+- [Vue开发小程序之性能优化](https://v.qq.com/x/page/r0886mn8v6l.html) 2019.VueConf，崔红保@DCloud
+- [微信公开课讲师 赵景晨：小程序性能优化](https://daxue.qq.com/wechat/content/id/4151) - 微信，2018.07.11
 
 ## 演讲视频
 
