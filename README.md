@@ -16,6 +16,9 @@
 - [Vue开发小程序之性能优化](https://v.qq.com/x/page/r0886mn8v6l.html) 崔红保@DCloud在 2019.VueConf 大会上演讲视频
 - [微信公开课：小程序性能优化](https://daxue.qq.com/wechat/content/id/4151) - 赵景晨@微信，2018.07.11
 
+## 方案探索
+- [uni-app黑魔法：小程序自定义组件运行到H5平台](https://zhuanlan.zhihu.com/p/114882174) - 崔红保@DCloud，2020.03.20
+
 ## 演讲视频
 
 [探索Web编程的另一种形态](https://v.qq.com/x/page/n0886gkx6yh.html) - 天翔@快手在2019.VueConf 大会上的演讲视频
