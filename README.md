@@ -8,7 +8,7 @@
 
 ## 实现原理
 
-[微信小程序同层渲染原理剖析](https://developers.weixin.qq.com/community/develop/article/doc/000c4e433707c072c1793e56f5c813?page=1#comment-list)- 微信官方，2019.11.20
+- [微信小程序同层渲染原理剖析](https://developers.weixin.qq.com/community/develop/article/doc/000c4e433707c072c1793e56f5c813?page=1#comment-list)- 微信官方，2019.11.20
 
 ## 性能优化
 
