@@ -1,6 +1,10 @@
 # awesome-mp
 小程序类动态App学习资料汇总
 
+## 开发框架
+- [uni-app](https://uniapp.dcloud.net.cn) - 基于Vue.js的跨端开发框架，DCloud出品
+- [Taro](https://taro.jd.com/) - 多端统一开发解决方案，京东凹凸实验室出品
+
 ## 架构解析
 
 - [小程序的当下和未来可能](https://mp.weixin.qq.com/s/pL1PpuQ9nv6fU5lsHeAf1A) - 崔红保@DCloud在 2019.GMTC.深圳站的演讲文字实录，2019.12.20
