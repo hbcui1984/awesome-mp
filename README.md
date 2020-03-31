@@ -13,6 +13,7 @@
 ## 实现原理
 
 - [微信小程序同层渲染原理剖析](https://developers.weixin.qq.com/community/develop/article/doc/000c4e433707c072c1793e56f5c813?page=1#comment-list)- 微信官方，2019.11.20
+- [微信小程序官方推出的Kbone，是如何解决Web 端和小程序同构痛点的？](https://zhuanlan.zhihu.com/p/89601942) - Kbone作者june在云加社区微信群中的分享整理，2019年11月01日
 
 ## 性能优化
 
