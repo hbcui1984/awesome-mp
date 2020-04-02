@@ -26,4 +26,9 @@
 
 ## 演讲视频
 
-[探索Web编程的另一种形态](https://v.qq.com/x/page/n0886gkx6yh.html) - 天翔@快手在2019.VueConf 大会上的演讲视频
+- [探索Web编程的另一种形态](https://v.qq.com/x/page/n0886gkx6yh.html) - 天翔@快手在2019.VueConf 大会上的演讲视频
+
+## 框架选型参考
+
+- [Kbone原理解析 & 小程序技术选型](https://developers.weixin.qq.com/community/develop/article/doc/0006a6326b8d38e56b998833456813) - 2019.12.11
+- [小程序开发：用原生还是选框架（wepy/mpvue/uni-app/taro）？](https://juejin.im/post/5cfdcf056fb9a07ecd3d5068) - 崔红保@DCloud，2019.06.10
