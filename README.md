@@ -27,5 +27,8 @@
 
 ## 方案探索
 - [uni-app黑魔法：小程序自定义组件运行到H5平台](https://zhuanlan.zhihu.com/p/114882174) - 崔红保@DCloud，2020.03.20
+
+## 演讲视频
+- [小程序的未来方向](https://time.geekbang.org/dailylesson/detail/100045216) - 崔红保@DCloud在2019.GMTC 大会上的演讲视频（极客时间上的付费栏目）
 - [探索Web编程的另一种形态](https://v.qq.com/x/page/n0886gkx6yh.html) - 天翔@快手在2019.VueConf 大会上的演讲视频
 
