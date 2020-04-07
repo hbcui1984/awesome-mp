@@ -5,6 +5,7 @@
 ## 开发框架
 - [uni-app](https://uniapp.dcloud.net.cn) - 基于Vue.js的跨端开发框架，DCloud出品
 - [Taro](https://taro.jd.com/) - 多端统一开发解决方案，京东凹凸实验室出品
+- [kbone](https://wechat-miniprogram.github.io/kbone/docs/) - 致力于微信小程序和 Web 端同构的解决方案，微信团队出品
 
 ## 框架选型参考
 
