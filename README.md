@@ -9,6 +9,7 @@
 
 ## 框架选型参考
 
+- [跨端开发框架深度横评之2020版](https://juejin.im/post/5e8e8d5a6fb9a03c6d3d9f42) - 崔红保@DCloud，2020.04.09
 - [小程序框架运行时性能大测评](https://juejin.im/post/5e868ac751882573ab44f5d4) - 滴滴WebApp架构组，2020.04.03
 - [Kbone原理解析 & 小程序技术选型](https://developers.weixin.qq.com/community/develop/article/doc/0006a6326b8d38e56b998833456813) - 2019.12.11
 - [小程序开发：用原生还是选框架（wepy/mpvue/uni-app/taro）？](https://juejin.im/post/5cfdcf056fb9a07ecd3d5068) - 崔红保@DCloud，2019.06.10
