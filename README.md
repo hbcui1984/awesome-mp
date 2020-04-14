@@ -35,3 +35,6 @@
 - [小程序的未来方向](https://time.geekbang.org/dailylesson/detail/100045216) - 崔红保@DCloud在2019.GMTC 大会上的演讲视频（极客时间上的付费栏目）
 - [探索Web编程的另一种形态](https://v.qq.com/x/page/n0886gkx6yh.html) - 天翔@快手在2019.VueConf 大会上的演讲视频
 
+## 行业分析
+
+- [2020了，各家小程序发展的怎么样？](https://zhuanlan.zhihu.com/p/130332829) - DCloud公众号文章，2020.04.14
