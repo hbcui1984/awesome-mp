@@ -14,6 +14,7 @@
 - [Kbone原理解析 & 小程序技术选型](https://developers.weixin.qq.com/community/develop/article/doc/0006a6326b8d38e56b998833456813) - 2019.12.11
 - [小程序开发：用原生还是选框架（wepy/mpvue/uni-app/taro）？](https://juejin.im/post/5cfdcf056fb9a07ecd3d5068) - 崔红保@DCloud，2019.06.10
 - [跨端开发框架深度横评](https://juejin.im/post/5ca1736af265da30ae314248) - 崔红保@DCloud，2019.04.01
+- [Taro vs uni-app选型对比](https://zhuanlan.zhihu.com/p/55903320) - jianfly,2019.01.28
 
 ## 架构解析/实现原理
 
