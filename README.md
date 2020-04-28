@@ -47,5 +47,6 @@
 ## 行业新闻
 
 - [支付宝小程序与小鹏汽车车载系统全面互通](https://mp.weixin.qq.com/s/Lv1DGmmwKH7U3zKHAhNP_A) - 创见公众号文章，2020.04.27
+- [京东小程序平台，他来了](https://mp.weixin.qq.com/s/RgUlCtIAe6z3q-L9xH__cQ) - 凹凸实验室公众号文章，2020.04.22
 
 
