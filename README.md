@@ -43,3 +43,9 @@
 
 - [2020了，各家小程序发展的怎么样？](https://zhuanlan.zhihu.com/p/130332829) - DCloud公众号文章，2020.04.14
 - [小程序技术演进史](https://mp.weixin.qq.com/s/Q3Dfrcf5FTmWUrsIkPWncA) - 王安@DCloud 发表在 CSDN 公众号的文章，2019.06.24
+
+## 行业新闻
+
+- [支付宝小程序与小鹏汽车车载系统全面互通](https://mp.weixin.qq.com/s/Lv1DGmmwKH7U3zKHAhNP_A) - 创见公众号文章，2020.04.27
+
+
