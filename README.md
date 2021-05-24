@@ -38,6 +38,7 @@
 - [基于 Vue 3.0 开发多端应用](https://www.bilibili.com/video/BV1kb4y1f7Ei) - 崔红保@DCloud在2021.VueConf 大会上的演讲视频
 - [小程序的未来方向](https://time.geekbang.org/dailylesson/detail/100045216) - 崔红保@DCloud在2019.GMTC 大会上的演讲视频（极客时间上的付费栏目）
 - [百度智能小程序自动化测试技术实践和应用 | GMTC](https://www.infoq.cn/video/KzND5VBuRFIylN5qU2u7?utm_source=album_info&utm_medium=video) - 邱立楷@百度在2019.GMTC 大会上的演讲视频
+- [Vue开发小程序之性能优化](https://v.qq.com/x/page/r0886mn8v6l.html) 崔红保@DCloud在 2019.VueConf 大会上演讲视频
 - [探索Web编程的另一种形态](https://v.qq.com/x/page/n0886gkx6yh.html) - 天翔@快手在2019.VueConf 大会上的演讲视频
 
 ## 工具/转换器
