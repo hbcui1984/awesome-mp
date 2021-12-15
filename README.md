@@ -11,6 +11,7 @@
 
 - [跨端开发框架深度横评之2020版](https://juejin.im/post/5e8e8d5a6fb9a03c6d3d9f42) - 崔红保@DCloud，2020.04.09
 - [小程序框架运行时性能大测评](https://juejin.im/post/5e868ac751882573ab44f5d4) - 滴滴WebApp架构组，2020.04.03
+
 - [Kbone原理解析 & 小程序技术选型](https://developers.weixin.qq.com/community/develop/article/doc/0006a6326b8d38e56b998833456813) - 2019.12.11
 - [小程序开发：用原生还是选框架（wepy/mpvue/uni-app/taro）？](https://juejin.im/post/5cfdcf056fb9a07ecd3d5068) - 崔红保@DCloud，2019.06.10
 - [跨端开发框架深度横评](https://juejin.im/post/5ca1736af265da30ae314248) - 崔红保@DCloud，2019.04.01
@@ -36,6 +37,7 @@
 ## 演讲视频
 
 - [基于 Vue 3.0 开发多端应用](https://www.bilibili.com/video/BV1kb4y1f7Ei) - 崔红保@DCloud在2021.VueConf 大会上的演讲视频
+- [使用 React 开发小程序 - Remax](https://www.yuque.com/seeconf/2020/slide#CxCHw) - 边柳@蚂蚁金服在`第三届 SEE Conf 2020`上的演讲视频，[文字实录](https://zhuanlan.zhihu.com/p/101909025)
 - [小程序的未来方向](https://time.geekbang.org/dailylesson/detail/100045216) - 崔红保@DCloud在2019.GMTC 大会上的演讲视频（极客时间上的付费栏目）
 - [百度智能小程序自动化测试技术实践和应用 | GMTC](https://www.infoq.cn/video/KzND5VBuRFIylN5qU2u7?utm_source=album_info&utm_medium=video) - 邱立楷@百度在2019.GMTC 大会上的演讲视频
 - [Vue开发小程序之性能优化](https://v.qq.com/x/page/r0886mn8v6l.html) 崔红保@DCloud在 2019.VueConf 大会上演讲视频
