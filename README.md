@@ -27,6 +27,7 @@
 
 ## 性能优化
 
+- [vue3和vite双向加持，uni-app性能再次提升](https://mp.weixin.qq.com/s/VH923v9AMdTYU4jFwLgL5Q)
 - [谜之wxs，uni-app如何用它大幅提升性能](https://juejin.im/post/5d7f366b6fb9a06af8250bc4) - 崔红保@DCloud，2019.09.16
 - [Vue开发小程序之性能优化](https://v.qq.com/x/page/r0886mn8v6l.html) 崔红保@DCloud在 2019.VueConf 大会上演讲视频
 - [微信公开课：小程序性能优化](https://daxue.qq.com/wechat/content/id/4151) - 赵景晨@微信，2018.07.11
