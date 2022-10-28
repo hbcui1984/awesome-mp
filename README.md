@@ -45,6 +45,7 @@
 - [探索Web编程的另一种形态](https://v.qq.com/x/page/n0886gkx6yh.html) - 天翔@快手在2019.VueConf 大会上的演讲视频
 
 ## 工具/转换器
+- [从 wepy 到 uniapp 变形记](https://mp.weixin.qq.com/s/AVRejU4PQKzk-DHTlrtaog) - vivo前端团队出品
 - [Antmove](https://ant-move.github.io/) - 小程序转换器，基于支付宝/微信小程序转换为多端小程序，高德团队出品
 
 ## 小程序引擎
