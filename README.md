@@ -19,6 +19,7 @@
 
 ## 架构解析/实现原理
 
+- [基于 Vue 3.0 开发多端应用](https://www.bilibili.com/video/BV1kb4y1f7Ei) - 崔红保@DCloud在2021.VueConf 大会上的演讲视频
 - [如何打磨 uni-app 的高性能和易用性](https://juejin.im/post/5f1637455188252e5b0db121) 崔红保@DCloud在 第十届前端早早聊大会上的分享文字实录，2020.07.21
 - [小程序的当下和未来可能](https://mp.weixin.qq.com/s/pL1PpuQ9nv6fU5lsHeAf1A) - 崔红保@DCloud在 2019.GMTC.深圳站的演讲文字实录，2019.12.20
 - [微信小程序同层渲染原理剖析](https://developers.weixin.qq.com/community/develop/article/doc/000c4e433707c072c1793e56f5c813?page=1#comment-list)- 微信官方，2019.11.20
