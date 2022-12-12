@@ -38,7 +38,7 @@
 
 ## 演讲视频
 
-- [Vue 之于 Native 平台的三次进化](https://www.bilibili.com/video/BV1jG411K7qP/?share_source=copy_web)， - 崔红保@DCloud在2022.VueConf 大会上的演讲视频
+- [Vue 之于 Native 平台的三次进化](https://www.bilibili.com/video/BV1jG411K7qP/?share_source=copy_web) - 崔红保@DCloud在2022.VueConf 大会上的演讲视频，首次公开UTS
 - [基于 Vue 3.0 开发多端应用](https://www.bilibili.com/video/BV1kb4y1f7Ei) - 崔红保@DCloud在2021.VueConf 大会上的演讲视频
 - [使用 React 开发小程序 - Remax](https://www.yuque.com/seeconf/2020/slide#CxCHw) - 边柳@蚂蚁金服在`第三届 SEE Conf 2020`上的演讲视频，[文字实录](https://zhuanlan.zhihu.com/p/101909025)
 - [小程序的未来方向](https://time.geekbang.org/dailylesson/detail/100045216) - 崔红保@DCloud在2019.GMTC 大会上的演讲视频（极客时间上的付费栏目）
