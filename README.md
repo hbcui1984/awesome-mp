@@ -35,6 +35,7 @@
 
 ## 方案探索
 - [uni-app黑魔法：小程序自定义组件运行到H5平台](https://zhuanlan.zhihu.com/p/114882174) - 崔红保@DCloud，2020.03.20
+- [美团移动端动态化实践](https://time.geekbang.org/dailylesson/detail/100016752?tid=36) - 方锦涛 美团点评资深技术专家，2018.04.21
 
 ## 演讲视频
 
