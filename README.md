@@ -59,6 +59,7 @@
 
 ## 行业分析
 
+- [回顾外滩 | DCloud崔红保：云开发与跨端技术，构建企业降本增效新篇章](https://mp.weixin.qq.com/s/YqumnQyjStcf0Z9gmMeUXA) - 崔红保@DCloud在外滩大会上的演讲文字实录
 - [2020了，各家小程序发展的怎么样？](https://zhuanlan.zhihu.com/p/130332829) - DCloud公众号文章，2020.04.14
 - [小程序技术演进史](https://mp.weixin.qq.com/s/Q3Dfrcf5FTmWUrsIkPWncA) - 王安@DCloud 发表在 CSDN 公众号的文章，2019.06.24
 
