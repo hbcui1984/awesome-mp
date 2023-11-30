@@ -3,15 +3,16 @@
 小程序类动态App学习资料汇总
 
 ## 开发框架
+- [uni-app x](https://uniapp.dcloud.net.cn/uni-app-x/) - 下一代uni-app，一个跨平台应用开发引擎，DCloud出品
 - [uni-app](https://uniapp.dcloud.net.cn) - 基于Vue.js的跨端开发框架，DCloud出品
 - [Taro](https://taro.jd.com/) - 多端统一开发解决方案，京东凹凸实验室出品
 - [kbone](https://wechat-miniprogram.github.io/kbone/docs/) - 致力于微信小程序和 Web 端同构的解决方案，微信团队出品
 
 ## 框架选型参考
 
+- [uni-app x，一个纯原生的Android App开发工具](https://juejin.cn/post/7306694295247175719) - 崔红保@DCloud，2023.11.29
 - [跨端开发框架深度横评之2020版](https://juejin.im/post/5e8e8d5a6fb9a03c6d3d9f42) - 崔红保@DCloud，2020.04.09
 - [小程序框架运行时性能大测评](https://juejin.im/post/5e868ac751882573ab44f5d4) - 滴滴WebApp架构组，2020.04.03
-
 - [Kbone原理解析 & 小程序技术选型](https://developers.weixin.qq.com/community/develop/article/doc/0006a6326b8d38e56b998833456813) - 2019.12.11
 - [小程序开发：用原生还是选框架（wepy/mpvue/uni-app/taro）？](https://juejin.im/post/5cfdcf056fb9a07ecd3d5068) - 崔红保@DCloud，2019.06.10
 - [跨端开发框架深度横评](https://juejin.im/post/5ca1736af265da30ae314248) - 崔红保@DCloud，2019.04.01
