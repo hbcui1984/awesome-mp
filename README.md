@@ -10,7 +10,7 @@
 
 ## 框架选型参考
 
-- [uni-app x，一个纯原生的Android App开发工具](https://juejin.cn/post/7306694295247175719) - 崔红保@DCloud，2023.11.29
+- [App跨平台框架VS原生开发深度评测之2023版](https://juejin.cn/post/7317091780826497075) - uni-app团队，2023.12.27
 - [跨端开发框架深度横评之2020版](https://juejin.im/post/5e8e8d5a6fb9a03c6d3d9f42) - 崔红保@DCloud，2020.04.09
 - [小程序框架运行时性能大测评](https://juejin.im/post/5e868ac751882573ab44f5d4) - 滴滴WebApp架构组，2020.04.03
 - [Kbone原理解析 & 小程序技术选型](https://developers.weixin.qq.com/community/develop/article/doc/0006a6326b8d38e56b998833456813) - 2019.12.11
@@ -20,6 +20,7 @@
 
 ## 架构解析/实现原理
 
+- [uni-app x，一个纯原生的Android App开发工具](https://juejin.cn/post/7306694295247175719) - uni-app团队，2023.11.29
 - [基于 Vue 3.0 开发多端应用](https://www.bilibili.com/video/BV1kb4y1f7Ei) - 崔红保@DCloud在2021.VueConf 大会上的演讲视频
 - [如何打磨 uni-app 的高性能和易用性](https://juejin.im/post/5f1637455188252e5b0db121) 崔红保@DCloud在 第十届前端早早聊大会上的分享文字实录，2020.07.21
 - [小程序的当下和未来可能](https://mp.weixin.qq.com/s/pL1PpuQ9nv6fU5lsHeAf1A) - 崔红保@DCloud在 2019.GMTC.深圳站的演讲文字实录，2019.12.20
