@@ -21,6 +21,7 @@
 ## 架构解析/实现原理
 
 - [uni-app x，一个纯原生的Android App开发工具](https://juejin.cn/post/7306694295247175719) - uni-app团队，2023.11.29
+- [如何评价微信小程序新渲染引擎skyline?](https://www.zhihu.com/question/546709238/answer/2639705680) - 鲁小夫的回答 - 知乎
 - [基于 Vue 3.0 开发多端应用](https://www.bilibili.com/video/BV1kb4y1f7Ei) - 崔红保@DCloud在2021.VueConf 大会上的演讲视频
 - [如何打磨 uni-app 的高性能和易用性](https://juejin.im/post/5f1637455188252e5b0db121) 崔红保@DCloud在 第十届前端早早聊大会上的分享文字实录，2020.07.21
 - [小程序的当下和未来可能](https://mp.weixin.qq.com/s/pL1PpuQ9nv6fU5lsHeAf1A) - 崔红保@DCloud在 2019.GMTC.深圳站的演讲文字实录，2019.12.20
