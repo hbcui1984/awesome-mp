@@ -25,7 +25,7 @@
 - [基于 Vue 3.0 开发多端应用](https://www.bilibili.com/video/BV1kb4y1f7Ei) - 崔红保@DCloud在2021.VueConf 大会上的演讲视频
 - [如何打磨 uni-app 的高性能和易用性](https://juejin.im/post/5f1637455188252e5b0db121) 崔红保@DCloud在 第十届前端早早聊大会上的分享文字实录，2020.07.21
 - [小程序的当下和未来可能](https://mp.weixin.qq.com/s/pL1PpuQ9nv6fU5lsHeAf1A) - 崔红保@DCloud在 2019.GMTC.深圳站的演讲文字实录，2019.12.20
-- [微信小程序的双线程设计有何创新之处？](https://www.zhihu.com/question/446103629)
+- [微信小程序的双线程设计有何创新之处？](https://www.zhihu.com/question/446103629) - 知乎
 - [微信小程序同层渲染原理剖析](https://developers.weixin.qq.com/community/develop/article/doc/000c4e433707c072c1793e56f5c813?page=1#comment-list)- 微信官方，2019.11.20
 - [微信小程序官方推出的Kbone，是如何解决Web 端和小程序同构痛点的？](https://zhuanlan.zhihu.com/p/89601942) - Kbone作者june在云加社区微信群中的分享整理，2019年11月01日
 - [支付宝小程序技术架构全解析](https://www.infoq.cn/article/ullETz7q_Ue4dUptKgKC) - 支付宝小程序首席架构师白招拒访谈，2019.02.19
