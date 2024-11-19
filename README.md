@@ -70,6 +70,7 @@
 ## 行业新闻
 
 - [「开源中国」用uni-app重构了——新版APP](https://mp.weixin.qq.com/s/tMIzQ-dDFtKJ4sT3DVW83A) - OSC开源社区，2024.11.11
+- [利好广大开发者！uni-app正式支持鸿蒙原生应用开发](https://ishare.ifeng.com/c/s/8bGUICmczyy?spss=np&channelId=&aman=85L57dqf92ue69X6f9K092Wac4E0ca8d36tad2I39b) - 凤凰新闻，2024.07.16
 - [uni-app支持PC版！](https://juejin.cn/post/6886261206403776520) - 崔红保@DCloud，2020.10.22
 - [uni-app支持360小程序](https://juejin.cn/post/6847902220269125639) - 崔红保@DCloud，2020.07.07
 - [支付宝小程序与小鹏汽车车载系统全面互通](https://mp.weixin.qq.com/s/Lv1DGmmwKH7U3zKHAhNP_A) - 创见公众号文章，2020.04.27
