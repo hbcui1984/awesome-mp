@@ -9,8 +9,9 @@
 - [Mpx](https://mpxjs.cn/) - 增强型跨端小程序框架，滴滴出品
 - [kbone](https://wechat-miniprogram.github.io/kbone/docs/) - 致力于微信小程序和 Web 端同构的解决方案，微信团队出品
 
-## 框架选型参考
+## 框架选型/性能测评
 
+- [uni-app x 蒸汽模式 性能测试基准报告 Benchmark](https://mp.weixin.qq.com/s/-XVEF4L6gwanw_nzE33buA) - uni-app团队，2026.02.12
 - [App跨平台框架VS原生开发深度评测之2023版](https://juejin.cn/post/7317091780826497075) - uni-app团队，2023.12.27
 - [跨端开发框架深度横评之2020版](https://juejin.im/post/5e8e8d5a6fb9a03c6d3d9f42) - 崔红保@DCloud，2020.04.09
 - [小程序框架运行时性能大测评](https://juejin.im/post/5e868ac751882573ab44f5d4) - 滴滴WebApp架构组，2020.04.03
